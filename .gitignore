@@ -1,0 +1,18 @@
+virt/
+
+#development database
+db.sqllite3
+
+#Cache
+__pycache__/
+*.pyc
+*.pyo
+
+#migration scripts
+migrations/
+
+# log files
+*.log
+
+# environment files
+*.env 
